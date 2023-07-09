@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega1280</DEVICE>
+ <WORKING_DIR>D:\amir-saeed\J1\J1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\amir-saeed\J1\J1\J1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m1280def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\amir-saeed\J1\J1\J1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\amir-saeed\J1\J1\J1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\amir-saeed\J1\J1\J1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <BOTTOMUP><FILE>D:\amir-saeed\J1\J1\J1.asm</FILE><LINE>13</LINE></BOTTOMUP>
+  <DELAY><FILE>D:\amir-saeed\J1\J1\J1.asm</FILE><LINE>31</LINE></DELAY>
+  <TOPDOWN><FILE>D:\amir-saeed\J1\J1\J1.asm</FILE><LINE>22</LINE></TOPDOWN>
+  <L1><FILE>D:\amir-saeed\J1\J1\J1.asm</FILE><LINE>32</LINE></L1>
+  <L2><FILE>D:\amir-saeed\J1\J1\J1.asm</FILE><LINE>33</LINE></L2>
+  <L3><FILE>D:\amir-saeed\J1\J1\J1.asm</FILE><LINE>34</LINE></L3>
+  <HERE><FILE>D:\amir-saeed\J1\J1\J1.asm</FILE><LINE>47</LINE></HERE>
+ </LABELS>
+</ASSEMBLER_INFO>

@@ -1,0 +1,51 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega1280</DEVICE>
+ <WORKING_DIR>D:\amir-saeed\J3\J3-int</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m1280def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\amir-saeed\J3\J3-int\J3-int.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>D:\amir-saeed\J3\J3-int\J3-int.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>D:\amir-saeed\J3\J3-int\J3-int.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>10</LINE></MAIN>
+  <OC1Aaddr_ROUTINE><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>111</LINE></OC1Aaddr_ROUTINE>
+  <OC0Aaddr_ROUTINE><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>59</LINE></OC0Aaddr_ROUTINE>
+  <START><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>20</LINE></START>
+  <SET_TIMER0><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>28</LINE></SET_TIMER0>
+  <SET_TIMER1><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>41</LINE></SET_TIMER1>
+  <HERE><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>57</LINE></HERE>
+  <SHOW_YEKAN><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>70</LINE></SHOW_YEKAN>
+  <SHOW_DAHGAN><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>79</LINE></SHOW_DAHGAN>
+  <SHOW_SADGAN><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>88</LINE></SHOW_SADGAN>
+  <SHOW_HEZARGAN><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>98</LINE></SHOW_HEZARGAN>
+  <CONVERT><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>166</LINE></CONVERT>
+  <DAHGAN><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>117</LINE></DAHGAN>
+  <SADGAN><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>123</LINE></SADGAN>
+  <HEZARGAN><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>129</LINE></HEZARGAN>
+  <RESET_TIMER><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>135</LINE></RESET_TIMER>
+  <DELAY><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>154</LINE></DELAY>
+  <LD1><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>156</LINE></LD1>
+  <LD2><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>158</LINE></LD2>
+  <C1><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>171</LINE></C1>
+  <C2><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>176</LINE></C2>
+  <C3><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>182</LINE></C3>
+  <C4><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>188</LINE></C4>
+  <C5><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>194</LINE></C5>
+  <C6><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>200</LINE></C6>
+  <C7><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>205</LINE></C7>
+  <C8><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>211</LINE></C8>
+  <C9><FILE>D:\amir-saeed\J3\J3-int\J3-int.asm</FILE><LINE>216</LINE></C9>
+ </LABELS>
+</ASSEMBLER_INFO>

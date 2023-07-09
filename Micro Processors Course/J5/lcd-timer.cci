@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:4E899014
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\mega1280.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavr2\inc\alcd.h"
+NODE:I LEVEL:0 LINE:28 "C:\cvavr2\inc\stdlib.h"
+NODE:V LEVEL:0 LINE:30 "numbers -> RAM:????"
+NODE:V LEVEL:0 LINE:31 "string_numbers -> RAM:????"
+NODE:F LEVEL:0 LINE:34 "timer1_compa_isr(void)"
+NODE:F LEVEL:0 LINE:55 "main(void)"

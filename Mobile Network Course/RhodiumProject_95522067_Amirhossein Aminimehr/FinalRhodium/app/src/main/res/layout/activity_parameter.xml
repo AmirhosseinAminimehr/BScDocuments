@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#999900">
+    <TextView
+        android:text="Longitude:"
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/longitude0"
+        android:gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="Loading..."
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/longitude"
+        android:gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="Latitude:"
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/latitude0"
+        android:gravity="center"
+        android:background="@android:color/holo_green_dark"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="Loading..."
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/latitude"
+        android:gravity="center"
+        android:background="@android:color/holo_green_dark"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="Cell-ID:"
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cellID0"
+        android:gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="Loading..."
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cellID"
+        android:gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="PLMN-ID:"
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/PLMN0"
+        android:gravity="center"
+        android:background="@android:color/holo_green_dark"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="Loading..."
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/PLMN"
+        android:gravity="center"
+        android:background="@android:color/holo_green_dark"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+
+
+
+
+    <TextView
+        android:text="RSRP:"
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RSRP0"
+        android:gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="Loading..."
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RSRP"
+        android:gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="RSRQ:"
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RSRQ0"
+        android:gravity="center"
+        android:background="@android:color/holo_green_dark"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="Loading..."
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RSRQ"
+        android:gravity="center"
+        android:background="@android:color/holo_green_dark"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="SINR:"
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SINR0"
+        android:gravity="center"
+        android:background="@android:color/holo_green_dark"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="Loading..."
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/SINR"
+        android:gravity="center"
+        android:background="@android:color/holo_green_dark"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+
+
+
+
+    <TextView
+        android:text="RSSI:"
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RSSI0"
+        android:gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="Loading..."
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RSSI"
+        android:gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="EC/N0:"
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/EC_N00"
+        android:gravity="center"
+        android:background="@android:color/holo_green_dark"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="Loading..."
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/EC_N0"
+        android:gravity="center"
+        android:background="@android:color/holo_green_dark"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+
+
+    <TextView
+        android:text="RSCP:"
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RSCP0"
+        android:gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="Loading..."
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RSCP"
+        android:gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+
+
+    <TextView
+        android:text="RxLev:"
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RxLev0"
+        android:gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="Loading..."
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/RxLev"
+        android:gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+
+
+
+    <TextView
+        android:text="LAC:"
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/LAC0"
+        android:gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:text="Loading..."
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/LAC"
+        android:gravity="center"
+        android:background="@android:color/holo_green_light"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+
+    <TextView
+        android:text="Status:"
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Status0"
+        android:gravity="center"
+        android:background="#CCCC00"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true" />
+
+    <TextView
+        android:text="Loading..."
+        android:textSize="20sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Status"
+        android:gravity="center"
+        android:background="#999900"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+
+    <TextView
+        android:text="We Support 4 modes : "
+        android:textSize="17sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Info0"
+        android:gravity="center"
+        android:background="#CCCC00"
+        android:textColor="@android:color/black"
+        android:layout_alignParentRight="true" />
+
+    <TextView
+        android:text="LTE - UMTS WCDMA - UMTS CDMA - GSM "
+        android:textSize="15sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Info"
+        android:gravity="center"
+        android:background="#999900"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+
+    <TextView
+        android:text="When Connection Type Changes We Will Automatically Handle It"
+        android:textSize="15sp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Info1"
+        android:gravity="center"
+        android:background="#999900"
+        android:textColor="#EEEEEE"
+        android:layout_alignParentRight="true" />
+
+
+
+
+
+</LinearLayout>

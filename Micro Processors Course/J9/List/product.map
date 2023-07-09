@@ -1,0 +1,22 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+result_char                                                       0x0260       4
+_base_y                                                           0x0264       4
+_lcd_maxx                                                         0x0268       1
+_seed                                                             0x0269       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+operand1                                                          R4,R5        2
+operand2                                                          R6,R7        2
+flag                                                              R9           1
+operation                                                         R8           1
+result                                                            R10,R11      2
+_lcd_x                                                            R13          1
+_lcd_y                                                            R12          1

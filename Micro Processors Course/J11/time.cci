@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:4EBC8EA1
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\mega1280.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavr2\inc\i2c.h"
+NODE:I LEVEL:0 LINE:30 "C:\cvavr2\inc\ds1307.h"
+NODE:I LEVEL:0 LINE:33 "C:\cvavr2\inc\alcd.h"
+NODE:I LEVEL:0 LINE:36 "C:\cvavr2\inc\delay.h"
+NODE:I LEVEL:0 LINE:38 "C:\cvavr2\inc\stdlib.h"
+NODE:F LEVEL:0 LINE:41 "main(void)"
